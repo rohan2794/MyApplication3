@@ -21,6 +21,12 @@
         android:layout_height="wrap_content"
         android:text="Hello Rohan kumar"
          />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="check git is eorking or not"
+
+        android:textAlignment="textEnd"/>
 
 
 </android.support.constraint.ConstraintLayout>
